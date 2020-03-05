@@ -16,3 +16,4 @@ $ docker-machine stop node1
 
 ## Reference
 - [docker machine drivers](https://docs.docker.com/machine/drivers/)
+- [docker authz python plugin](https://etoews.github.io/blog/2016/07/30/develop-a-docker-authz-plugin-in-python/)
